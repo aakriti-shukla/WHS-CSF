@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aakriti-shukla/studious-journey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Reviewed Movies,Shows, and Books
+Find the medias I have seen and the ratings and analisys I have done. Please remember, the ratings are my opinions.
 
 ### Markdown
 
