@@ -1,7 +1,8 @@
-## Reviewed Movies,Shows, and Books
-Find the medias I have seen and the ratings and analisys I have done. Please remember, the ratings are my opinions.
+## About Us 
+CSF stands for California Scholarship Federation. It is a nonprofit organization whose mission is to recognize and encourage academic achievement and community service among students in Californa. Whitney CSF aims to encourage academic achievement and community service.
 
-### Markdown
+### Where to find us?
+For weekly updates, follow us at whs.csf on Instagram or sign up for the emails 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,10 +26,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aakriti-shukla/studious-journey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
