@@ -2,7 +2,7 @@
 CSF stands for California Scholarship Federation. It is a nonprofit organization whose mission is to recognize and encourage academic achievement and community service among students in Californa. Whitney CSF aims to encourage academic achievement and community service.
 
 ### Where to find us?
-For weekly updates, follow us at whs.csf on Instagram or sign up for the emails 
+For weekly updates, follow us at whs.csf on Instagram or sign up for the emails.  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
