@@ -7,7 +7,8 @@ For weekly updates, follow us at whs.csf on Instagram or sign up for the emails.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+````Awards
+
 
 # Header 1
 ## Header 2
