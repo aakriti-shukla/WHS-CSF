@@ -5,9 +5,8 @@ CSF stands for California Scholarship Federation. It is a nonprofit organization
 For weekly updates, follow us at whs.csf on Instagram or sign up for the emails.  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 ### Awards
+```markdown
 
 CSF has many graduation awards you can qualify for if you serve your community as a scholar! You can receive chords and stoles for your volunteering. 
 
