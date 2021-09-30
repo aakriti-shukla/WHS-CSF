@@ -11,7 +11,7 @@ For weekly updates, follow us at whs.csf on [Instagram](https://www.instagram.co
 
 Sealbearer must be an "active" CSF member for at least 4 semesters, one of which is in your senior year.
 Who | What | Award |
---- |-----|--------|
+----|-----|--------|
 Sealbearer | must be an "active" CSF member for at least 4 semesters, one of which is in your senior year | CSF seal on diploma + lamp pin
 Active sealbearer|  must be an "active" CSF member for at least 4 semesters, regardless of when | Gold Tassel
 Officers | must be an active cabinet member | Stole + gold cord
