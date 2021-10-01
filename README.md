@@ -1,4 +1,4 @@
-## Whitney High School CSF ![image](https://sanmarcoshigh.smusd.org/common/pages/UserFile.aspx?fileId=3473898)
+## Whitney High School CSF 
 CSF stands for California Scholarship Federation. It is a nonprofit organization whose mission is to recognize and encourage academic achievement and community service among students in Californa. Whitney CSF aims to encourage academic achievement and community service.
 
 ### Where to find us?
